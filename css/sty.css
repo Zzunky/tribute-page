@@ -1,0 +1,25 @@
+body {
+ margin-top: 0px;
+
+}
+.header{
+	background-color: #000000;
+}
+.border{
+	border:0px;
+}
+.img-margin{
+	margin-left:60px;
+	margin-right:60px;
+	margin-top:20px;
+}
+ h1 {
+    font-family: Tahoma, Monospace;
+
+  }
+
+  .text-color{
+  	  background-color:#B7A8A8;
+  	
+  }
+
